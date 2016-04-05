@@ -1,0 +1,143 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v<VERSION> }
+
+\bibitem[Bloom 1984]{bloom1984}
+\abntrefinfo{Bloom}{BLOOM}{1984}
+{BLOOM, B.~S. The 2 sigma problem: The search for methods of group instruction
+  as effective as one-to-one tutoring.
+\emph{Educational Researcher}, [American Educational Research Association, Sage
+  Publications, Inc.], v.~13, n.~6, p. 4--16, 1984.
+ISSN 0013189X, 1935102X.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.jstor\-.org\-/stable\-/1175554$>$}{http://www.jstor.org/stable/1175554}.}
+
+\bibitem[Brusilovsky e Vassileva 2003]{brusilovsky2003}
+\abntrefinfo{Brusilovsky e Vassileva}{BRUSILOVSKY; VASSILEVA}{2003}
+{BRUSILOVSKY, P.; VASSILEVA, J. Course sequencing techniques for large-scale
+  web-based education.
+\emph{International Journal of Continuing Engineering Education and Life Long
+  Learning}, Inderscience Publishers, v.~13, n.~1-2, p. 75--94, 2003.}
+
+\bibitem[Castillo et al. 2010]{castillo2010}
+\abntrefinfo{Castillo et al.}{CASTILLO et al.}{2010}
+{CASTILLO, L. et al. Automatic generation of temporal planning domains for
+  e-learning problems.
+\emph{Journal of Scheduling}, Springer, v.~13, n.~4, p. 347--362, 2010.}
+
+\bibitem[Challco 2012]{challco2012}
+\abntrefinfo{Challco}{CHALLCO}{2012}
+{CHALLCO, G.~C.
+\emph{Planejamento instrucional automatizado em aprendizagem colaborativa com
+  suporte computacional utilizando planejamento hier{\'a}rquico}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2012.}
+
+\bibitem[Challco et al. 2014]{challco2014}
+\abntrefinfo{Challco et al.}{CHALLCO et al.}{2014}
+{CHALLCO, G.~C. et al. Automated instructional design for cscl: A hierarchical
+  task network planning approach.
+\emph{Expert Systems with Applications}, Elsevier, v.~41, n.~8, p. 3777--3798,
+  2014.}
+
+\bibitem[Cho 2000]{cho2000}
+\abntrefinfo{Cho}{CHO}{2000}
+{CHO, B.-I.
+\emph{Dynamic planning models to support curriculum planning and multiple
+  tutoring protocols in intelligent tutoring systems}.
+Tese (Doutorado) --- Illinois Institute of Technology, 2000.}
+
+\bibitem[Cho et al. 1999]{cho1999}
+\abntrefinfo{Cho et al.}{CHO et al.}{1999}
+{CHO, B.-I. et al. A curriculum planning model for an intelligent tutoring
+  system. In:  \emph{FLAIRS Conference}. [S.l.: s.n.], 1999. p. 197--201.}
+
+\bibitem[Gamboa e Fred 2002]{gamboa2002}
+\abntrefinfo{Gamboa e Fred}{GAMBOA; FRED}{2002}
+{GAMBOA, H.; FRED, A. Designing intelligent tutoring systems: a bayesian
+  approach.
+\emph{Enterprise Information Systems III. Edited by J. Filipe, B. Sharp, and P.
+  Miranda. Springer Verlag: New York}, p. 146--152, 2002.}
+
+\bibitem[Garrido, Onaindia e Sapena 2008]{garrido2008}
+\abntrefinfo{Garrido, Onaindia e Sapena}{GARRIDO; ONAINDIA; SAPENA}{2008}
+{GARRIDO, A.; ONAINDIA, E.; SAPENA, O. Planning and scheduling in an e-learning
+  environment. a constraint-programming-based approach.
+\emph{Engineering Applications of Artificial Intelligence}, Elsevier, v.~21,
+  n.~5, p. 733--743, 2008.}
+
+\bibitem[Kaplan e Danny 1995]{kaplan1995}
+\abntrefinfo{Kaplan e Danny}{KAPLAN; DANNY}{1995}
+{KAPLAN, R.; DANNY, R. New directions for intelligent tutoring.
+\emph{AI Expert}, v.~10, n.~2, 1995.}
+
+\bibitem[Mohan, Greer e McCalla 2003]{mohan2003}
+\abntrefinfo{Mohan, Greer e McCalla}{MOHAN; GREER; MCCALLA}{2003}
+{MOHAN, P.; GREER, J.; MCCALLA, G. Instructional planning with learning
+  objects.
+\emph{Knowledge Representation and Automated Reasoning for E-Learning Systems},
+  Univ. of Koblenz-Landau, p. 52--58, 2003.}
+
+\bibitem[Nau et al. 2003]{nau2003}
+\abntrefinfo{Nau et al.}{NAU et al.}{2003}
+{NAU, D.~S. et al. Shop2: An htn planning system.
+\emph{J. Artif. Intell. Res.(JAIR)}, v.~20, p. 379--404, 2003.}
+
+\bibitem[Peachey e McCalla 1986]{peachey1986}
+\abntrefinfo{Peachey e McCalla}{PEACHEY; MCCALLA}{1986}
+{PEACHEY, D.~R.; MCCALLA, G.~I. Using planning techniques in intelligent
+  tutoring systems.
+\emph{International Journal of Man-Machine Studies}, Elsevier, v.~24, n.~1, p.
+  77--98, 1986.}
+
+\bibitem[Polson e Richardson 2013]{polson2013}
+\abntrefinfo{Polson e Richardson}{POLSON; RICHARDSON}{2013}
+{POLSON, M.~C.; RICHARDSON, J.~J. \emph{Foundations of intelligent tutoring
+  systems}. [S.l.]: Psychology Press, 2013.}
+
+\bibitem[Sleeman e Brown 1982]{sleeman1982}
+\abntrefinfo{Sleeman e Brown}{SLEEMAN; BROWN}{1982}
+{SLEEMAN, D.; BROWN, J.~S. Intelligent tutoring systems.
+London: Academic Press, 1982.}
+
+\bibitem[Ullrich 2008]{ullrich2008}
+\abntrefinfo{Ullrich}{ULLRICH}{2008}
+{ULLRICH, C. \emph{Pedagogically founded courseware generation for web-based
+  learning: an HTN-planning-based approach implemented in PAIGOS}. [S.l.]:
+  Springer-Verlag, 2008.}
+
+\bibitem[VanLehn 2011]{vanlehn2011}
+\abntrefinfo{VanLehn}{VANLEHN}{2011}
+{VANLEHN, K. The relative effectiveness of human tutoring, intelligent tutoring
+  systems, and other tutoring systems.
+\emph{Educational Psychologist}, Taylor \& Francis, v.~46, n.~4, p. 197--221,
+  2011.}
+
+\bibitem[Vassileva e Deters 1998]{vassileva1998}
+\abntrefinfo{Vassileva e Deters}{VASSILEVA; DETERS}{1998}
+{VASSILEVA, J.; DETERS, R. Dynamic courseware generation on the www.
+\emph{British Journal of Educational Technology}, Wiley Online Library, v.~29,
+  n.~1, p. 5--14, 1998.}
+
+\bibitem[Vassileva e Wasson 1996]{vassileva1996}
+\abntrefinfo{Vassileva e Wasson}{VASSILEVA; WASSON}{1996}
+{VASSILEVA, J.; WASSON, B. Instructional planning approaches: From tutoring
+  towards free learning.
+\emph{Proc. EuroAIED}, v.~96, p.~1--8, 1996.}
+
+\bibitem[Wenger 1987]{wenger1987}
+\abntrefinfo{Wenger}{WENGER}{1987}
+{WENGER, E. \emph{Artificial intelligence and tutoring systems: computational
+  and cognitive approaches to the communication of knowledge}. [S.l.]: Morgan
+  Kaufmann, 1987.}
+
+\bibitem[Woo 1991]{woo1991}
+\abntrefinfo{Woo}{WOO}{1991}
+{WOO, C.~W.
+\emph{Instructional planning in an intelligent tutoring system: combining
+  global lesson plans with local discourse control}.
+Tese (Doutorado) --- Illinois Institute of Technology, 1991.}
+
+\end{thebibliography}

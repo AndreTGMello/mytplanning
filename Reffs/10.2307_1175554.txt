@@ -1,0 +1,255 @@
+
+@article{bloom1984,
+	ISSN = {0013189X, 1935102X},
+	URL = {http://www.jstor.org/stable/1175554},
+	author = {Benjamin S. Bloom},
+	journal = {Educational Researcher},
+	number = {6},
+	pages = {4-16},
+	publisher = {[American Educational Research Association, Sage Publications, Inc.]},
+	title = {The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring},
+	volume = {13},
+	year = {1984}
+}
+
+@article{brusilovsky2003,
+	title={Course sequencing techniques for large-scale web-based education},
+	author={Brusilovsky, Peter and Vassileva, Julita},
+	journal={International Journal of Continuing Engineering Education and Life Long Learning},
+	volume={13},
+	number={1-2},
+	pages={75--94},
+	year={2003},
+	publisher={Inderscience Publishers}
+}
+
+@article{castillo2010,
+	title={Automatic generation of temporal planning domains for e-learning problems},
+	author={Castillo, Luis and Morales, Lluvia and Gonz{\'a}lez-Ferrer, Arturo and Fdez-Olivares, Juan and Borrajo, Daniel and Onaind{\'\i}a, Eva},
+	journal={Journal of Scheduling},
+	volume={13},
+	number={4},
+	pages={347--362},
+	year={2010},
+	publisher={Springer}
+}
+
+@article{challco2014,
+	title={Automated instructional design for CSCL: A hierarchical task network planning approach},
+	author={Challco, Geiser Chalco and Gerosa, Marco Aur{\'e}lio and Bittencourt, Ig Ibert and Isotani, Seiji},
+	journal={Expert Systems with Applications},
+	volume={41},
+	number={8},
+	pages={3777--3798},
+	year={2014},
+	publisher={Elsevier}
+}
+
+@article{gamboa2002designing,
+	title={Designing intelligent tutoring systems: a bayesian approach},
+	author={Gamboa, Hugo and Fred, Ana},
+	journal={Enterprise Information Systems III. Edited by J. Filipe, B. Sharp, and P. Miranda. Springer Verlag: New York},
+	pages={146--152},
+	year={2002}
+}
+
+@article{garrido2008,
+	title={Planning and scheduling in an e-learning environment. A constraint-programming-based approach},
+	author={Garrido, Antonio and Onaindia, Eva and Sapena, Oscar},
+	journal={Engineering Applications of Artificial Intelligence},
+	volume={21},
+	number={5},
+	pages={733--743},
+	year={2008},
+	publisher={Elsevier}
+}
+
+@article{kaplan1995,
+	title={New Directions for Intelligent Tutoring},
+	author={Kaplan, Randy and Danny, Rock},
+	journal={AI Expert},
+	volume={10},
+	number={2},
+	year={1995}
+}
+
+@article{karpicke2008,
+	title={The critical importance of retrieval for learning},
+	author={Karpicke, Jeffrey D and Roediger, Henry L},
+	journal={science},
+	volume={319},
+	number={5865},
+	pages={966--968},
+	year={2008},
+	publisher={American Association for the Advancement of Science}
+}
+
+@article{mohan2003,
+	title={Instructional planning with learning objects},
+	author={Mohan, Permanand and Greer, Jim and McCalla, G},
+	journal={Knowledge Representation and Automated Reasoning for E-Learning Systems},
+	pages={52--58},
+	year={2003},
+	publisher={Univ. of Koblenz-Landau}
+}
+
+@article{nau2003,
+	title={SHOP2: An HTN planning system},
+	author={Nau, Dana S and Au, Tsz-Chiu and Ilghami, Okhtay and Kuter, Ugur and Murdock, J William and Wu, Dan and Yaman, Fusun},
+	journal={J. Artif. Intell. Res.(JAIR)},
+	volume={20},
+	pages={379--404},
+	year={2003}
+}
+
+@article{peachey1986,
+	title={Using planning techniques in intelligent tutoring systems},
+	author={Peachey, Darwyn R and McCalla, Gordon I},
+	journal={International Journal of Man-Machine Studies},
+	volume={24},
+	number={1},
+	pages={77--98},
+	year={1986},
+	publisher={Elsevier}
+}
+
+@article{sleeman1982,
+	title={Intelligent tutoring systems},
+	author={Sleeman, Derek and Brown, John Seely},
+	year={1982},
+	publisher={London: Academic Press}
+}
+
+@article{vanlehn2011,
+	title={The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems},
+	author={VanLehn, Kurt},
+	journal={Educational Psychologist},
+	volume={46},
+	number={4},
+	pages={197--221},
+	year={2011},
+	publisher={Taylor \& Francis}
+}
+
+@article{vassileva1996,
+	title={Instructional planning approaches: From tutoring towards free learning},
+	author={Vassileva, Julita and Wasson, Barbara},
+	journal={Proc. EuroAIED},
+	volume={96},
+	pages={1--8},
+	year={1996}
+}
+
+@article{vassileva1998,
+	title={Dynamic courseware generation on the WWW},
+	author={Vassileva, Julita and Deters, Ralph},
+	journal={British Journal of Educational Technology},
+	volume={29},
+	number={1},
+	pages={5--14},
+	year={1998},
+	publisher={Wiley Online Library}
+}
+
+@book{ullrich2008,
+	title={Pedagogically founded courseware generation for web-based learning: an HTN-planning-based approach implemented in PAIGOS},
+	author={Ullrich, Carsten},
+	year={2008},
+	publisher={Springer-Verlag}
+}
+
+@book{polson2013,
+	title={Foundations of intelligent tutoring systems},
+	author={Polson, Martha C and Richardson, J Jeffrey},
+	year={2013},
+	publisher={Psychology Press}
+}
+
+@book{wenger1987,
+	title={Artificial intelligence and tutoring systems: computational and cognitive approaches to the communication of knowledge},
+	author={Wenger, Etienne},
+	year={1987},
+	publisher={Morgan Kaufmann}
+}
+
+@article{teste1,
+	author 		= {Nina Amenta and Sunghee Choi and Tamal K. Dey and N. Leekha},
+	title 		= {A Simple Algorithm for Homeomorphic Surface Reconstruction},
+	journal 	= {International Journal of Computational Geometry and Applications},
+	publisher = {World Scientific Publishing Co.},
+	volume 		= {12},
+	number 		= {1-2},
+	pages 		= {125-141},
+	year 			= {2002},
+}
+
+@InBook{temp3,
+author 		= {},
+title 		= {},
+booktitle	= {},
+publisher	= {},
+year 			= {},
+chapter 	= {},
+pages 		= {}
+}
+
+@inproceedings{cho1999,
+	title={A Curriculum Planning Model for an Intelligent Tutoring System.},
+	author={Cho, Byung-In and Michael, Joel A and Rovick, Allen A and Evens, Martha W},
+	booktitle={FLAIRS Conference},
+	pages={197--201},
+	year={1999}
+}
+
+@inproceedings{mohan1992,
+	title={Enhancing the instructional capabilities of Intelligent tutoring systems},
+	author={Mohan, Permanand and Greer, Jim and Jones, Marlene},
+	booktitle={Intelligent Tutoring Systems},
+	pages={531--538},
+	year={1992},
+	organization={Springer}
+}
+
+@phdthesis{cho2000,
+	title={Dynamic planning models to support curriculum planning and multiple tutoring protocols in intelligent tutoring systems},
+	author={Cho, Byung-In},
+	year={2000},
+	school={Illinois Institute of Technology}
+}
+
+@phdthesis{woo1991,
+	title={Instructional planning in an intelligent tutoring system: combining global lesson plans with local discourse control},
+	author={Woo, Chong Woo},
+	year={1991},
+	school={Illinois Institute of Technology}
+}
+
+@mastersthesis{temp7,
+author 		= {},
+title  		= {},
+school 		= {},
+year   		= {}
+}
+
+@TechReport{temp8,
+author 		= {},
+title 		= {},
+year 			= {}
+}
+
+@misc{temp9,
+author 		= {},
+title 		= {},
+year 			= {},
+url 			= {} 
+
+}
+
+@misc{kaplan1995,
+	title={New Directions for Intelligent Tutoring},
+	author={Kaplan, Randy and Danny, Rock},
+	journal={AI Expert},
+	volume={10},
+	number={2},
+	year={1995}
+}
