@@ -1,2 +1,6 @@
 # mytplanning
-Utilizando técnicas de Planejamento em IA para automatizar a geração de um Planejamento Instrucional de conteúdo adaptado a um ambiente e-learning
+# ver 2.1
+
+1. Colocando no padrão LaTeX;
+2. Criando ambiente colaborativo para controle de versão;
+3. Realizando ajustes da última reunião dia 30/03/16
