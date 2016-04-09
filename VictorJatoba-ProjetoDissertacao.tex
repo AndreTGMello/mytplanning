@@ -294,44 +294,6 @@ Versão original
 % ---
 
 % ---
-% Inserir errata
-% ---
-%-------------------------------------------------------------------------
-% Comentário adicional do PPgSI - Informações sobre ``Errata'':
-%
-% Usar esta página de errata apenas em casos de excepcionais, e apenas 
-% para a versão corrigida da Dissertação. Por exemplo, quando depois de
-% já depositada e publicada a versão corrigida, ainda assim verifica-se
-% a necessidade de alguma correção adicional.
-%
-% Se precisar usar esta página, busque a forma correta (o modelo correto) 
-% para fazê-lo, de acordo com a norma ABNT.
-%
-% Não usar esta página para versão original de Dissertação.
-% Não usar esta página para Qualificação.
-%
-%-------------------------------------------------------------------------
-\begin{errata}
-	
-\begin{table}[]
-	\centering
-	\caption{Revision History}
-	\label{revision_history}
-	\begin{tabular}{p{1.4in} p{1.4in} p{2.4in} p{1.4in} } \hline
-		\textbf{Date} & \textbf{Version} & \textbf{Description} & \textbf{Author}
-		\\ \hline
-		05/03/16      & 1.0              & Colocando o título, tema, problema, hipótese e,cronograma inicial.   & Victor Jatobá   \\ \hline
-		15/03/16      & 1.1              & Referencial Teórico; ajuste no cronograma.                                                       & VJ              \\ \hline
-		20/03/16      & 1.2              & Adicionando a referência Kaplan e Rock 95;,Citando o Jshop2; Adicionando objetivo e metodologia; & VJ              \\ \hline
-		28/03/16      & 1.2R             & Revisão                                                                                          & Karina Delgado  \\ \hline
-		29/03/16      & 2.0              & Ajustes da Revisão da Prof.ª Karina                                                              & VJ              \\ \hline
-		31/03/16      & 2.1              & Colocando no padrão LaTex;                                                                       & VJ              \\ \hline
-	\end{tabular}
-\end{table}
-
-\end{errata}
-
-% ---
 % inserir o sumario
 % ---
 \pdfbookmark[0]{\contentsname}{toc}
@@ -360,9 +322,6 @@ Versão original
 %-------------------------------------------------------------------------
 \chapter{Introdução}
 
-\victor{testando primeiro argumento}
-\karina{muito bom victor, você é d+!!}
-
 Os Sistemas de Tutores Inteligentes (STI) são programas de software que dão suporte às atividades da aprendizagem \cite{gamboa2002} e atualmente são tão eficazes quanto o acompanhamento individualizado por um Tutor humano em sala de aula \cite{vanlehn2011}. Sendo o último, muito mais efetivo do que os métodos tradicionais de ensino, em que não há um acompanhamento personalizado \cite{bloom1984}. A arquitetura clássica de um STI levantada é composta por quatro componentes: modelo do Aluno; modelo do Especialista; modelo Instrucional ou Pedagógico e modelo da Interface \cite{kaplan1995}. Por definição todo STI deve ser adaptado e personalizado ao aprendizado de cada aluno \cite{woo1991} sendo o Planejamento Instrucional o processo que possibilita tal característica \cite{mohan2003}. Esse processo pode ser classificado em: planejamento de conteúdo, onde é selecionado o conteúdo para alcançar um determinado objetivo de aprendizagem \cite{vassileva1996} e planejamento de apresentação que constrói uma sequência ótima de interações entre o tutor e o aluno \cite{mohan2003}. Para que seja possível automatizar o processo de Planejamento Instrucional, técnicas de planejamento em Inteligência Artificial podem ser utilizadas \cite{cho2000, vassileva1996, brusilovsky2003}.
 
 A plataforma virtual Make Your Time © possui ferramentas que ajudam estudantes que estão se preparando para exames e concursos públicos na etapa de planificação das atividades de estudos, gerando automaticamente uma planilha de horas de estudos, no acompanhamento do rendimento escolar por meio de gráficos de desempenho e na prática de recuperação do conteúdo com a disponibilização de questões. Porém, não existe nenhum mecanismo de inteligência que faça com que o sistema se adapte ao aprendizado do estudante ao longo do tempo, além de não fornecer, de forma cronológica, uma melhor sequência de estudos e questões para maximizar o aprendizado do estudante no prazo pré-determinado.
@@ -371,7 +330,13 @@ A proposta desse trabalho é aplicar as técnicas de planejamento em IA para aut
 
 \chapter{Objetivo}
 
-O objetivo do presente estudo é criar um algoritmo de planejamento em Inteligência Artificial para automatizar a geração de um Planejamento instrucional de conteúdo personalizado ao perfil de cada estudante e adaptado a plataforma de e-learning Make Your Time.
+O presente estudo propõe um planejador instrucional adaptativo que utiliza os níveis de aprendizado do aluno e os requisitos exigidos no edital do exame que este irá prestar. Para automatizar a criação do planejamento instrucional e garantir a adaptabilidade do sistema, um agente não humano fará uso de técnicas de planejamento apoiado em Inteligência Artificial e aprendizado de máquina.
+
+Cita-se como objetivos específicos desse trabalho:
+\begin{itemize}
+	\item A definição de um modelo de estudante;
+	\item Proposta e desenvolvimento de uma nova arquitetura para o ambiente EAD Make Your Time através das integrações do planejador proposto e do modelo do estudante;
+\end{itemize}
 
 \chapter{Metodologia}
 
@@ -406,13 +371,12 @@ A arquitetura clássica dos STIs (\ref{fig:figura1}) é composta por basicamente
 \end{figure}
 
 \section{Planejamento instrucional}
-O planejamento instrucional é o processo que possibilita a organização do conteúdo de forma consistente, coerente e continuada de um processo instrucional definido de acordo com as características de cada aluno e com os objetos educacionais utilizados \cite{vassileva1996, mohan2003}. Foi inicialmente proposto por \cite{peachey1986} e posteriormente adotados em muitos STIs. Esse processo é o componente do STI responsável por gerar, de forma individualizada, uma sequência de materiais de aprendizado usando um formato de apresentação adequado. Em outras palavras, é através do planejamento instrucional que os sistemas tutores promovem o aprendizado individualizado \cite{mohan2003}, identificando e selecionando as estratégias para suprir as deficiências no conhecimento de cada aluno \cite{polson2013}.
+
+É de fundamental importância que em sistemas inteligentes e adaptáveis de educação a distância via WEB forneçam automaticamente, de forma personalizada, o conteúdo a ser aprendido pelo aluno \cite{brusilovsky2003}. Conteúdo, nesse trabalho, corresponde a questões. O propósito é motivar o estudante e ter certeza de que ele é capaz de resolver os problemas da base de domínio. No entanto não é de interesse fazer com que seja gasto muito tempo tentando resolver todos os problemas ou resolver problemas parecidos repetidas vezes. O grande dilema é que a seleção dos problemas deve ser desafiador sem ser frustrante. Assim o planejamento das questões deve manter os estudantes interessados em continuar os estudos até o final \cite{cho2000}. Para a geração automática da sequência das questões é possível utilizar a técnica de Planejamento Instrucional.
+
+O planejamento instrucional é o processo que possibilita a organização do conteúdo de forma consistente, coerente e continuada de um processo instrucional definido de acordo com as características de cada aluno e com os objetos educacionais utilizados \cite{vassileva1996, mohan2003}. Foi inicialmente proposto por \cite{peachey1986} e posteriormente adotados em muitos STIs. É através do planejamento instrucional que os sistemas tutores promovem o aprendizado individualizado \cite{mohan2003}, identificando e selecionando as estratégias para suprir as deficiências no conhecimento de cada aluno \cite{polson2013}.
+
 O planejemanto instrucional pode ser dividido em dois tipos: planejamento de conteúdo que seleciona o conteúdo para alcançar um determinado objetivo de aprendizagem \cite{vassileva1996} e planejamento de apresentação que constrói uma sequência ótima de interações entre o tutor e o aluno \cite{mohan2003}. Esse processo pode ser automatizado através do uso de técnicas de planejamento em Inteligência Artificial \cite{cho2000, vassileva1996, brusilovsky2003, garrido2008}.
-
-\section{Planejamento Curricular}
-
-O planejamento curricular  é a parte responsável por selecionar os próximos problemas \cite{cho1999}. O propósito é motivar o estudante e ter certeza de que ele é capaz de resolver os problemas da base de domínio. No entanto não é de interesse fazer com que seja gasto muito tempo tentando resolver todos os problemas ou resolver problemas parecidos repetidas vezes. Nesse caso o planejamento curricular deve ajudar o estudante a escolher o procedimento mais adequado para selecionar os problemas ideias de tal forma que o faça aprender o conteúdo programático. O grande dilema é que a seleção dos problemas deve ser desafiador sem ser frustrante. Assim o planejamento das questões deve manter os estudantes interessados em continuar os estudos até o final \cite{cho2000}.
-A primeira etapa do trabalho de pesquisa será a construção de um planejamento curricular onde será disponibilizado para o usuário, de forma cronológica e inteligente, uma bateria de questões diariamente, baseado nas suas dificuldades, e nas restrições de tempo e conteúdos exigidos presentes no edital do exame a ser prestado. (Colocar esse texto no objetivo)
 
 \section{Planejamento em IA e Planejamento instrucional}
 
