@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.4)  9 APR 2016 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.4)  11 APR 2016 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1398,59 +1398,63 @@ l.295
 
 
 
+] [2
+
 ] (./VictorJatoba-ProjetoDissertacao.toc
-LaTeX Font Info:    Calculating math sizes for size <15> on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <15> on input line 20.
+(Font)              <15> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.49995> on input line 20.
+(Font)              <10.49995> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.5> on input line 20.
+(Font)              <7.5> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
-) [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 327.
+(Font)              <5> on input line 21.
+) [3
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 352.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 327.
- [3
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 352.
+ [4
 
-
-] [4
 
 ] [5
 
 ] [6
 
+] [7
+
 ]
-<figura1.png, id=120, 487.8225pt x 199.49532pt>
+<figura1.png, id=127, 487.8225pt x 199.49532pt>
 File: figura1.png Graphic file (type png)
  <use figura1.png>
-Package pdftex.def Info: figura1.png used on input line 368.
+Package pdftex.def Info: figura1.png used on input line 393.
 (pdftex.def)             Requested size: 487.8213pt x 199.49481pt.
 
-Overfull \hbox (32.8213pt too wide) in paragraph at lines 368--370
+Overfull \hbox (32.8213pt too wide) in paragraph at lines 393--395
  [][] 
  []
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.378 
-       <./figura1.png>] [8] [9] (./VictorJatoba-ProjetoDissertacao.bbl
+l.403 
+       <./figura1.png>] [9] [10] (./VictorJatoba-ProjetoDissertacao.bbl
 (./VictorJatoba-ProjetoDissertacao.brf)
 \tf@brf=\write6
 \openout6 = `VictorJatoba-ProjetoDissertacao.brf'.
 
- [10
+ [11
 
 ]
 
@@ -1466,33 +1470,33 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\nextToken' on input line 3.
 
 bibitemlist
-[11
+[12
 
 ]) 
 AED: lastpage setting LastPage
-[12]
+[13]
 \tf@toc=\write7
 \openout7 = `VictorJatoba-ProjetoDissertacao.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 440.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 440.
  (./VictorJatoba-ProjetoDissertacao.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 440.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 440.
 Package rerunfilecheck Info: File `VictorJatoba-ProjetoDissertacao.brf' has not
  changed.
-(rerunfilecheck)             Checksum: AB77BDB8B8C579FFA9C63738C312DB28;2042.
+(rerunfilecheck)             Checksum: CF326F4232F5FF672728F44A1BE8A4BF;2042.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 415.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 440.
  ) 
 Here is how much of TeX's memory you used:
- 24156 strings out of 493085
- 424919 string characters out of 6136918
+ 24161 strings out of 493085
+ 424963 string characters out of 6136918
  668712 words of memory out of 5000000
- 27063 multiletter control sequences out of 15000+600000
+ 27064 multiletter control sequences out of 15000+600000
  15538 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,56p,1555b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1503,11 +1507,11 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on VictorJatoba-ProjetoDissertacao.pdf (13 pages, 148557 bytes).
+Output written on VictorJatoba-ProjetoDissertacao.pdf (14 pages, 148963 bytes).
 
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 14450 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 14458 words of extra memory for PDF output out of 17280 (max. 10000000)
 
